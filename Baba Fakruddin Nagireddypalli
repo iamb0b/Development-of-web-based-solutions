@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venkata Naga Vineel Kodi</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+</head>
+
+<body>
+    <header>
+        <a href="#" class="header-name">Profile</a>
+        <div class="bx bx-menu" id="menu-icon"></div>
+        <ul class="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="skills.html">Skills</a></li>
+        </ul>
+    </header>
+
+    <section>
+        <table>
+            <tr>
+                <th>Type</th>
+                <th>SKills</th>
+            </tr>
+            <tr>
+                <td>Frontend Technologies</td>
+                <td>HTML5, CSS3, DOM Manipulation, JavaScript (ECMA 5/6), jQuery, AJAX, JSON, Angular/Angular JS, React
+                    JS</td>
+            </tr>
+            <tr>
+                <td>Backend Technologies</td>
+                <td>Java, Core Java, Spring Boot, Hibernate, Spring Security, Spring Microservices, Spring Rest, JMS,
+                    Apache Kafka</td>
+            </tr>
+            <tr>
+                <td>Debugging tools</td>
+                <td>Firebug, Chrome Developer Tools</td>
+            </tr>
+            <tr>
+                <td>IDE s</td>
+                <td>Eclipse, ItntelliJ, Visual Studio, Visual Studio Code, Notepad++, Sublime</td>
+            </tr>
+            <tr>
+                <td>Tools & Version Control</td>
+                <td>Git, GitHub, GitLab, NPM</td>
+            </tr>
+        </table>
+    </section>
+    <div class="footer">
+        <p>2024 @ Profile</p>
+    </div>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
